@@ -189,7 +189,7 @@ end
 		a=a+1
 		result_text = result_text..a.."- "..result[a].."\n\n"
 	end
-	return result_text.."✨ Channel = @CH_NEWS"
+	return result_text.."✨ Channel = @Space_Team"
 end
 
 return {
