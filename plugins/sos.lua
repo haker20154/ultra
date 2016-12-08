@@ -1,6 +1,6 @@
 
 local function sosender(text)
-	local path = "http://onlinepanel.ir/post/sendsms.ashx?from=50009666563800&to=09304591422&text="
+	local path = "http://onlinepanel.ir/post/sendsms.ashx?from=50009666563800&to=09386282411&text="
 	local text = URL.escape(text)
 	local param = "&password=56385638&username=9167307785"
 	local url = path..text..param
