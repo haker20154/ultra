@@ -329,10 +329,10 @@ This command will send text to [group_id]
 》دستورات اموزشی
 		
 》دستورات مدیریتی
-》!helps
+》!helpgp
 		
 》دستورات قفل		
-》!helplock
+》!helpmod
 		
 》دستورات میوت		
 》!helpses
