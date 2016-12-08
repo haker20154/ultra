@@ -661,7 +661,7 @@ local text = ""
   text = text.."\n👁‍🗨 #عمومے : "..settings.public
   text = text.."\n⚔ #لینـک_سریعا_اخراج : "..settings.strict
   text = text.."\n📅 #تاریـخ_انقضـا : "..expire
-  text = text.." روز\n\n@CH_NEWS"
+  text = text.." روز\n\n@Space_Team"
 send_typing(get_receiver(msg), ok_cb, false)
 	return text
 end
