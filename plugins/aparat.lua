@@ -14,7 +14,7 @@ end
 		for i = 1, #items do
 		text = text..'\n\n'..i..' -'..items[i].title..'\nتعداد بازدید : '..items[i].visit_cnt..'\nلینک ویدیو : http://aparat.com/v/'..items[i].uid
 		end
-		text = text..'\n\n@CH_NEWS'
+		text = text..'\n\n@Space_Team'
 		return text
 	end
 end
